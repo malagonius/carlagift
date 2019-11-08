@@ -1,5 +1,6 @@
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="btd.css">
 	<title>Tanti Auguri</title>
 </head>
@@ -13,20 +14,18 @@
 		<div id="navigation" class="navigation">
 			<div class="navigation_container">
 				<a class="active" id ="1" href="#"><span>Rules</span></a>
-				<a id ="2" href="#"><span>Content</span></a>
+				<a id ="2" href="#"><span>Reclama</span></a>
 				<a id ="3" href="#"><span>Riconoscimenti</span></a>		
 			</div>
 		</div>
-			<div id="content1" class="content active">
+			<div id="content1" class="content">
 				<div>
 					<div id="player">
-			    		<audio autoplay controls>
-			   		 		<source src="auguri.mp3" type="audio/mpeg">
+			    		<video autoplay controls>
+			   		 		<source src="auguri.mp4" type="audio/mpeg">
 			    		        If you're reading this, audio isn't supported. 
-		  		  		</audio>
+		  		  		</video>
 					</div>
-					<span>
-					</span>
 					<ul>
 						<h3>Tantissimi auguri</h3>
 						<ul>Complimenti per aver decifrato il codice e per aver sbloccato il sito con successo.
@@ -45,99 +44,58 @@
 			<div id="content2" class="content">	
 				<div>
 					<span>
-						<ul>
-							<li>4 Type of Monkeys</li>
-							<ul>
-								<li>
-									Standard --> Very High Quality/Price value Strong most cases, low efficency, can't pop lead
-									<ul>
-										<li>Dart<ul>
-											<li><a id="dart1">Sharp Shooting > Spiked Balls > Ultra Juggernaut</a></li>
-											<li><a id="dart2"></a>Incrase Range > Extra firing > Crossbow Master</li>
-										</ul></li>
-										<li>Boomerang<ul>
-											<li><a id="rang1"></a>SharpRang > FlameRang > LaserRang</li>
-											<li><a id="rang2"></a> ExtraRange > Epic Range > Permacharge</li>
-										</ul></li>
-										<li>TackShooter<ul>
-											<li><a id="tack1"></a>More Tacks > Even More Tacks > Tack-nator</li>
-											<li><a id="tack2"></a>Hard tacks > Rusty Tacks > Huge Tacks</li>
-										</ul></li>
-									</ul>
-								<li>Military --> Can pop Lead, Good for Crowd Controll, can be placed almost everywhere
-									<ul>
-										<li>Sniper<ul>
-											<li><a id="snip1"></a>Increased Accuracy > Deadly Precision > Full Metal Jacket</li>
-											<li><a id="snip2"></a>Faster Firing  > Semi Automatic Rifle > Elite Defender</li>
-										</ul></li>
-										<li>Submarine<ul>
-											<li><a id="subb1"></a>Rocket Launcher > First Strike > Nuclear Missle</li>
-											<li><a id="subb2"></a> Submerge > Radioactive Submarine > Atomic radiation</li>
-										</ul></li>
-										<li>HeilPilot<ul>
-											<li><a id="pilo1"></a>Faster firing > Razor Rotors > Apache Prime</li>
-											<li><a id="pilo2"></a>Ultra Jet > Chase > Comache Defence</li>
-										</ul></li>
-									</ul></li>
-								<li>Magical --> Very expensive, High efficency,Can't pop certain bloons
-									<ul>
-										<li>Wizzard<ul>
-											<li><a id="wizz1"></a>Intese Magic > Arcane Spikes > Archmage</li>
-											<li><a id="wizz2"></a>Fire Ball > Wall Of Fire > PoenixLord</li>
-										</ul></li>
-										<li>Druid<ul>
-											<li><a id="drud1"></a>Chain Lighting > Lighting Ball > StormLord</li>
-											<li><a id="drud2"></a>Hard Throns > Grasping Thorns > Spirit Of The Forest</li>
-										</ul></li>
-										<li>SuperMonkey<ul>
-											<li><a id="supm1"></a>Laser Vision > Plasma Ray > Sun God</li>
-											<li><a id="supm2"></a>Epic Range > Robo Monkey > BloonsDay</li>
-										</ul></li>
-									</ul></li>
-								<li>Support --> can't pop bloons, give cool and unique effects
-									<ul>
-										<li>Banana Farm<ul>
-											<li><a id="farm1"></a>Increase Production > Banana Republic > Bananopoli</li>
-											<li><a id="farm2"></a>Valuable Banana > Banananomics > BnanaBank</li>
-										</ul></li>
-										<li>Monkey Village<ul>
-											<li><a id="vill1"></a>Jungle Drums > Camo Detections > Inspiring Citadel</li>
-											<li><a id="vill2"></a>Banana Accolyte > Banana Temple > Golden Banana</li>
-										</ul></li>
-									</ul></li>
-							</ul>
-						</ul>
 					</span>
+					<ul>Pensavi di rillassarti e bella li?
+						<p>Credevi davvero te la avremmo lasciata vincere cosi facilmente?</p>
+						<p>Per passare allo step successivo premi questo
+						<a href="https://u6218883.ct.sendgrid.net/wf/click?upn=MliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://u6218883.ct.sendgrid.net/wf/click?upn%3DMliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D&amp;source=gmail&amp;ust=1573251071704000&amp;usg=AFQjCNFhggiJsW3ySkhxVPemKRCL0RYamA">link</a> ( se ne hai il coraggio ) e affronta la prossima sfida</p>
+
+					</ul>
 				</div>			
 			</div>	
 			<div id="content3" class="content star-wars">	
 				<div>
+					<span style="position: relative;top: 31px;">Click on play to start credits<div id="star-wars-play-button"></div></span>
+					<div id="star-wars-player">
+			    		<audio autoplay>
+			   		 		<source src="star-wars.mp3" type="audio/mpeg">
+			    		        If you're reading this, audio isn't supported. 
+		  		  		</audio>
+					</div>
 					<span>
 						<div class="fade"></div>
 						<section class="star-wars">
-						  <div class="crawl">
-						    <div class="title">
-						      <p>Episode 38</p>
-						    </div>
-						    <p>------------------------------</p>
-						    <p>------------------------------</p>
-						    <p>Una stella è nata nell'universo</p>
-
-					    	<p>Più di 38 anni fa, una bambina, una speranza è venuta qui nel pianeta chiamato terra</p>
-						      
-						     <p>Tra le grandi battaglie, ed eventuali tumulti l'umanità ha bisogno di una luce su cui puntare</p>
-
-						    <p>Grazie Carla e tanti auguri di nuovo</p>
-
-						    <p>Amministratore Delegato : Antonina Lo Piparo</p>
-						    <p>Principale Finanziatore : Renato Nicotra</p>
-						    <p>Regia : Renato Nicotra</p>
-						    <p>Ideatore e sceneggaiture : Renato Nicotra</p>
-						    <p>Lead Design : Mattia Nicotra</p>
-						    <p>Lead Developer : Mattia Nicotra</p>
-						    <p>Supporto Morale : Antonia Lo Piparo</p>
-
-						    <p>------------------------------</p>	 
+						  <div id="crawler" class="">
+							    <div class="title">
+							      <p>Episode 38</p>
+							    </div>
+							    <p> 
+							    	Una stella è nata nell'universo
+							    	<br>
+							    	Più di 38 anni fa, una bambina, una speranza è venuta qui nel pianeta chiamato terra
+								    <br>
+								    Tra le grandi battaglie, ed eventuali tumulti l'umanità ha bisogno di una luce su cui puntare
+								    <br>
+								    Grazie Carla e tanti auguri di nuovo
+								    <br>
+								    Amministratore Delegato - Antonina Lo Piparo
+								    <br>
+								    Principale Finanziatore - Renato Nicotra
+								    <br>
+								    Regia - Renato Nicotra
+								    <br>
+								    Ideatore e sceneggaiture - Renato Nicotra
+								    <br>
+								    Lead Design - Mattia Nicotra
+								    <br>
+								    Lead Developer - Mattia Nicotra
+								    <br>
+								    Supporto Morale - Antonia Lo Piparo
+								    <br>
+							    	
+								   
+							</p>
+						  </div>
 						</section>
 					</span>
 				</div>

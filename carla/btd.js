@@ -5,17 +5,26 @@ window.onload = function() {
         }while(x!="04novembre1971"){
         document.getElementById("cover").style.top="20000px";
         var anchors = document.getElementsByTagName('a');
-        for(var i = 0; i < 4; i++) {
+        document.getElementById("content1").classList.add("active");
+        for(var i = 0; i < 3; i++) {
             var anchor = anchors[i];
             anchor.onclick = function() {
+                if("1"==this.id){
+                    document.getElementById("star-wars-player").children[0].pause();
+                }else if("3"==this.id){
+                    document.getElementById("player").children[0].pause();
+                }
+
                 document.getElementsByClassName("active")[0].classList.remove("active");
                 document.getElementsByClassName("active")[0].classList.remove("active");
                 document.getElementById("content"+this.id).classList.add("active")
                 document.getElementById(this.id).classList.add("active")
             }
         }
+        document.getElementById("player").children[0].play();
         var listItems = document.getElementsByTagName('a');
-        for(var k = 4; k < listItems.length; k++) {
+
+        for(var k = 3; k < listItems.length; k++) {
             var listItems = listItems[k];
             listItems.onclick = function() {
                 switch(this.id){
@@ -56,5 +65,18 @@ window.onload = function() {
       } else {
         header.classList.remove("sticky");
       }
+    }
+    document.getElementById("star-wars-play-button").onclick = function(){
+        if(isPlaying){
+            document.getElementById("star-wars-player").children[0].pause();
+            document.getElementById("crawler").classList.remove("crawl");
+            isPlaying=false;
+        }
+        else{
+            document.getElementById("star-wars-player").children[0].play();
+            document.getElementById("crawler").classList.add("crawl");
+            isPlaying=true;
+        }
+        
     }
 }

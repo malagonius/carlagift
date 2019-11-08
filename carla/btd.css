@@ -61,8 +61,8 @@ span{    position: relative;
     background: url(img1.png) no-repeat 0;
     background-position: -150px;
     width: 450px;}
-#content2 div span{background-size:cover;height:850px;background: url("img2.png") no-repeat 0}
-#content3 div span{background:black; overflow: hidden;}
+#content2 div span{background-size:cover;height:850px;background: url("img2.png") no-repeat 0;background-position: -360px 10px;}
+#content3 div span{background:black; overflow: hidden; left: -15%;width: 124%;}
 #content3 div span span{background: initial;
     color: white;
     font-weight: bold;
@@ -85,9 +85,11 @@ span{    position: relative;
 }
 .fade {
   position: relative;
-  width: 100%;
+  width: 109% !important;
   min-height: 40vh;
   background-image: linear-gradient(0deg, transparent, black 75%);
+  left: -15%;
+  width: 124%;
   z-index: 1;
 }
 .star-wars {
@@ -104,18 +106,21 @@ span{    position: relative;
   perspective: 400px;
   text-align: justify;
 }
-#player{padding:20px;}
-#player audio{position: relative;
+#player, #star-wars-palyer{margin: 50px auto;}
+#player video, #star-wars-player audio{    
+    position: relative;
     z-index: 19;
     left: 50%;
-    transform: translateX(-50%);}
-
+    transform: translateX(-50%);
+    top: 25px}
+#player video{width: 120%;}
 .crawl {
   position: relative;
   top: 99999px;
   transform-origin: 20% 100%;
   animation: crawl 40s infinite;
   animation-timing-function: cubic-bezier(0.5, 0.57, 0.99, 1.12);
+  left:-50px;
 }
 
 .crawl > .title {
@@ -130,12 +135,12 @@ span{    position: relative;
 
 @keyframes crawl {
     0% {
-    top: -100px;
+    top: 0px;
     transform: rotateX(18deg)  translateZ(0);
   }
     100% { 
-    top: -6000px;
-    transform: rotateX(22deg) translateZ(-2500px);
+    top: -12568px;
+    transform: rotateX(22deg) translateZ(-4800px);
   }
 }
 
@@ -146,8 +151,33 @@ span{    position: relative;
 #content1 ul{font-size: 28px; width:150%;}
 h3{font-size: 38px; margin-top: 0px;}
 
-@media only screen and (max-width:767px){
-  #content1 ul{width: 100%;display: block;text-align: center;padding: 0px;}
-  #content1 div span{width: 100%;background-position: center;}
-  h1{width: 80%;}
-}
+#content3 .crawl .title{height: initial;}
+#content1 ul{width: 100%;display: none;text-align: center;padding: 0px;}
+#content1.active ul{display:block;}
+#content1 div span{width: 100%;background-position: center;}
+h1{width: 80%;}
+
+#content1.active #player{display: initial;}
+#content1 #player{display: none;}
+
+#content2.active ul{display:block;}
+#content2 ul{display: none;}
+#content3.active #star-wars-player{display: initial;}
+#content3 #star-wars-player{display: none;}
+
+.star-wars p{ color: black; }
+.star-wars .crawl p{ color: #feda4a; }
+.credit-span{}
+#star-wars-play-button{ background: url(play.png);
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    background-size: cover;
+    border-radius: 25px;
+    margin-left: 20px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    background-position: -2px 0px;}
+
+
