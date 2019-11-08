@@ -1,3 +1,5 @@
+body{overflow: hidden;width: 99%;
+  max-width: 99%}
 h1{        left: 50%;
     position: absolute;
     transform: translateX(-50%);
@@ -16,7 +18,10 @@ h1{        left: 50%;
     background: #be0000;
     z-index: 20;
     position: relative;
-    height: 40px;}
+    height: 40px;
+    width: 100%;
+    max-width: 100%;
+  }
 .navigation_container{margin:0 auto; width:500px; position: relative;}
 .navigation a.active{background: #f42528;}
 .navigation a:hover{background: hsla(375, 90%, 70%, 1);}
