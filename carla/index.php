@@ -5,7 +5,6 @@
 	<title>Tanti Auguri</title>
 </head>
 <body>
-	<h1>Auguri Carla</h1>
 	<div class="title_container">
 		<div class="title_image"></div>
 	</div>
