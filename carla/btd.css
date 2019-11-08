@@ -1,4 +1,4 @@
-body{overflow: hidden;width: 99%;
+body{overflow-x: hidden;width: 99%;
   max-width: 99%}
 h1{        left: 50%;
     position: absolute;
@@ -22,7 +22,7 @@ h1{        left: 50%;
     width: 100%;
     max-width: 100%;
   }
-.navigation_container{margin:0 auto; width:500px; position: relative;}
+.navigation_container{margin:0 auto; width:50%; position: relative;}
 .navigation a.active{background: #f42528;}
 .navigation a:hover{background: hsla(375, 90%, 70%, 1);}
 .navigation a.active:hover::after{border-color: hsla(375, 90%, 70%, 1) transparent transparent transparent;}
