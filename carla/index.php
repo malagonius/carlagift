@@ -1,14 +1,15 @@
 <html>
 <head>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="btd.css">
 	<title>Tanti Auguri</title>
 </head>
 <body>
 	<h1>Auguri Carla</h1>
-	<div id="cover"></div>
 	<div class="title_container">
 		<div class="title_image"></div>
 	</div>
+	<div id="cover"></div>
 	<div class="content_container">
 		<div id="navigation" class="navigation">
 			<div class="navigation_container">
@@ -19,20 +20,27 @@
 		</div>
 			<div id="content1" class="content active">
 				<div>
+					<div id="player">
+			    		<audio autoplay controls>
+			   		 		<source src="auguri.mp3" type="audio/mpeg">
+			    		        If you're reading this, audio isn't supported. 
+		  		  		</audio>
+					</div>
 					<span>
-						<ul><h3>Tantissimi auguri</h3>
-								<ul>Complimenti per aver decifrato il codice e per aver sbloccato il sito con successo.
-								<br>
-									Ora il prossimo passo per recalmare il tuo regalo è semplice, basta premere sul tasto reclama
-								<br>Magari è veramente cosi semplice, o forse è solo una trappola</li>
-								<br>Per scoprirlo ti tocca provare, ma se fossi in te non lo farei
-
-								<p>Ad ogni modo, che finisca bene o finisca male, ci tenevamo ad augurarti tanti auguri e tanta felicità a te e ai tuoi cari</p>
-						</ul>
-								</li>
-							</ul>
-						</ul>
 					</span>
+					<ul>
+						<h3>Tantissimi auguri</h3>
+						<ul>Complimenti per aver decifrato il codice e per aver sbloccato il sito con successo.
+						<br>
+							Ora il prossimo passo per recalmare il tuo regalo è semplice, basta premere sul tasto reclama
+						<br>
+							Magari è veramente cosi semplice, o forse è solo una trappola
+						<br>
+							Per scoprirlo ti tocca provare, ma se fossi in te non lo farei
+						<p>
+							Ad ogni modo, che finisca bene o finisca male, ci tenevamo ad augurarti tanti auguri e tanta felicità a te e ai tuoi cari</p>
+						</ul>
+					</ul>
 				</div>		
 			</div>
 			<div id="content2" class="content">	
@@ -112,7 +120,8 @@
 						    <div class="title">
 						      <p>Episode 38</p>
 						    </div>
-						    
+						    <p>------------------------------</p>
+						    <p>------------------------------</p>
 						    <p>Una stella è nata nell'universo</p>
 
 					    	<p>Più di 38 anni fa, una bambina, una speranza è venuta qui nel pianeta chiamato terra</p>
@@ -127,7 +136,9 @@
 						    <p>Ideatore e sceneggaiture : Renato Nicotra</p>
 						    <p>Lead Design : Mattia Nicotra</p>
 						    <p>Lead Developer : Mattia Nicotra</p>
-						    <p>Supporto Morale : Antonia Lo Piparo</p>	 
+						    <p>Supporto Morale : Antonia Lo Piparo</p>
+
+						    <p>------------------------------</p>	 
 						</section>
 					</span>
 				</div>

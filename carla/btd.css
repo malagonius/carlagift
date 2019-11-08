@@ -14,13 +14,28 @@ h1{        left: 50%;
     background-position: 10% 45%;}
  .navigation{    width: 100%;
     background: #be0000;
-
+    z-index: 20;
+    position: relative;
     height: 40px;}
 .navigation_container{margin:0 auto; width:500px; position: relative;}
 .navigation a.active{background: #f42528;}
+.navigation a:hover{background: hsla(375, 90%, 70%, 1);}
+.navigation a.active:hover::after{border-color: hsla(375, 90%, 70%, 1) transparent transparent transparent;}
+.navigation .active::after{content: "";
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 10px 0 10px;
+    border-color: #f42528 transparent transparent transparent;}
 .navigation a{width: 32%;
     display: inline-block;
     background: #be0000;
+    position: relative;
     height: 40px;}
 span{    position: relative;
     top: 50%;
@@ -30,6 +45,7 @@ span{    position: relative;
     color: #fff001;
     cursor: pointer;
 }
+.navigation a:hover{opacity: 0.8;}
 #content1 div span > ul{ color: #ed6c02;
 	 width: 100%;
     position: relative;
@@ -88,12 +104,17 @@ span{    position: relative;
   perspective: 400px;
   text-align: justify;
 }
+#player{padding:20px;}
+#player audio{position: relative;
+    z-index: 19;
+    left: 50%;
+    transform: translateX(-50%);}
 
 .crawl {
   position: relative;
   top: 99999px;
   transform-origin: 20% 100%;
-  animation: crawl 20s infinite;
+  animation: crawl 40s infinite;
   animation-timing-function: cubic-bezier(0.5, 0.57, 0.99, 1.12);
 }
 
@@ -125,3 +146,8 @@ span{    position: relative;
 #content1 ul{font-size: 28px; width:150%;}
 h3{font-size: 38px; margin-top: 0px;}
 
+@media (max-width:767px){
+  #content1 ul{width: 100%;display: block;text-align: center;padding: 0px;}
+  #content1 div span{width: 100%;background-position: center;}
+  h1{width: 80%;}
+}
