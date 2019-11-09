@@ -35,7 +35,7 @@
 						<br>
 							Per scoprirlo ti tocca provare, ma se fossi in te non lo farei
 						<p>
-							Ad ogni modo, che finisca bene o finisca male, ci tenevamo ad augurarti tanti auguri e tanta felicità a te e ai tuoi cari</p>
+							Ad ogni modo, che finisca bene o finisca male, ci tenevamo ad augurarti tanti auguri ed un felice compleanno</p>
 						</ul>
 					</ul>
 				</div>		
@@ -47,7 +47,7 @@
 					<ul>Pensavi di rillassarti e bella li?
 						<p>Credevi davvero te la avremmo lasciata vincere cosi facilmente?</p>
 						<p>Per passare allo step successivo premi questo
-						<a href="https://u6218883.ct.sendgrid.net/wf/click?upn=MliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://u6218883.ct.sendgrid.net/wf/click?upn%3DMliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D&amp;source=gmail&amp;ust=1573251071704000&amp;usg=AFQjCNFhggiJsW3ySkhxVPemKRCL0RYamA">link</a> ( se ne hai il coraggio ) e affronta la prossima sfida</p>
+						<a style="position: relative;z-index: 3" href="https://u6218883.ct.sendgrid.net/wf/click?upn=MliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://u6218883.ct.sendgrid.net/wf/click?upn%3DMliPQzpToTj02TKghB-2BErVZNEHrt0IcHpWOesYmFWgwZPUblK7QI4Ltn8anAgJPIYi5iCnLLN3cidRAmmsOFNECW-2B5QYC7PDMn5NZZqvlbYIbydLJqORIV-2BpGHNABmd2BJoLnz5xG7jf9Hp5Fctt6h7jT-2FBFBUhwNh-2FuPz-2FfckE-3D_zkzkkdi098-2Fm2gHIsIkdbPKZRh1UFDHXyPOUoeZYHL6jOK44a-2FGOW-2FSTzISO-2FnYqvLpVpMptEjWZOOLigNN6fjMnoKV6JJK8ND5D52PK8AXIM8v54K7KVq5CU8ainZH6bTVwRKu7PzOUCVNSwB2xTVNAdghdm1a0afeeo3LyF4QNwar0V-2FUOpwkpVoYpC2A9YcR4U4t5sjaxfe8C-2FNspYQ-3D-3D&amp;source=gmail&amp;ust=1573251071704000&amp;usg=AFQjCNFhggiJsW3ySkhxVPemKRCL0RYamA">link</a> ( se ne hai il coraggio ) e affronta la prossima sfida</p>
 
 					</ul>
 				</div>			
@@ -75,21 +75,31 @@
 								    <br>
 								    Tra le grandi battaglie, ed eventuali tumulti l'umanità ha bisogno di una luce su cui puntare
 								    <br>
-								    Grazie Carla e tanti auguri di nuovo
 								    <br>
-								    Amministratore Delegato - Antonina Lo Piparo
 								    <br>
-								    Principale Finanziatore - Renato Nicotra
+								    Grazie Carla e tanti auguri di nuovo.
 								    <br>
-								    Regia - Renato Nicotra
 								    <br>
-								    Ideatore e sceneggaiture - Renato Nicotra
+								    Amministratore Delegato: Antonina Lo Piparo
 								    <br>
-								    Lead Design - Mattia Nicotra
 								    <br>
-								    Lead Developer - Mattia Nicotra
+								    Principale Finanziatore: Renato Nicotra
 								    <br>
-								    Supporto Morale - Antonia Lo Piparo
+								    <br>
+								    Regia:  Renato Nicotra
+								    <br>
+								    <br>
+								    Ideatore e sceneggaiture: Renato Nicotra
+								    <br>
+								    <br>
+								    Lead Design: Mattia Nicotra
+								    <br>
+								    <br>
+								    Lead Developer: Mattia Nicotra
+								    <br>
+								    <br>
+								    Supporto Morale: Antonia Lo Piparo
+								    <br>
 								    <br>
 							    	
 								   

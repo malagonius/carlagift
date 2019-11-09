@@ -22,7 +22,7 @@ h1{        left: 50%;
     width: 100%;
     max-width: 100%;
   }
-.navigation_container{margin:0 auto; width:50%; position: relative;}
+.navigation_container{margin:0 auto; width:90%; position: relative;}
 .navigation a.active{background: #f42528;}
 .navigation a:hover{background: hsla(375, 90%, 70%, 1);}
 .navigation a.active:hover::after{border-color: hsla(375, 90%, 70%, 1) transparent transparent transparent;}
@@ -67,7 +67,7 @@ span{    position: relative;
     background-position: -150px;
     width: 450px;}
 #content2 div span{background-size:cover;height:850px;background: url("img2.png") no-repeat 0;background-position: -360px 10px;}
-#content3 div span{background:black; overflow: hidden; left: -15%;width: 124%;}
+#content3 div span{background:black; overflow: hidden; left: -15%;width: 124%;height: 5000px}
 #content3 div span span{background: initial;
     color: white;
     font-weight: bold;
