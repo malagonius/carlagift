@@ -20,7 +20,7 @@
 			<div id="content1" class="content">
 				<div>
 					<div id="player">
-			    		<video autoplay controls>
+			    		<video autoplay controls playsinline>
 			   		 		<source src="auguri.mp4" type="audio/mpeg">
 			    		        If you're reading this, audio isn't supported. 
 		  		  		</video>
