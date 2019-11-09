@@ -19,11 +19,10 @@
 		</div>
 			<div id="content1" class="content">
 				<div>
+
 					<div id="player">
-			    		<video autoplay controls="true" playsInline>
-			   		 		<source src="auguri.mp4" type="audio/mpeg">
-			    		        If you're reading this, audio isn't supported. 
-		  		  		</video>
+			    		<div style="width:100%;height:0px;position:relative;padding-bottom:75.000%;z-index: 10;"><iframe src="https://streamable.com/s/8gp03/rgjabh" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe>
+			    		</div>
 					</div>
 					<ul>
 						<h3>Tantissimi auguri</h3>
