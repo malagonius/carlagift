@@ -111,6 +111,20 @@ span{    position: relative;
   perspective: 400px;
   text-align: justify;
 }
+.star-wars{
+  display: flex;
+    justify-content: center;
+    position: relative;
+    height: 1950px;
+    color: #feda4a;
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 250%;
+    font-weight: 600;
+    letter-spacing: 6px;
+    line-height: 150%;
+    perspective: 750px;
+    text-align: justify;
+}
 #player, #star-wars-palyer{margin: 50px auto;}
 #player video, #star-wars-player audio{    
     position: relative;
