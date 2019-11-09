@@ -73,7 +73,7 @@
 							    	<br>
 							    	Più di 38 anni fa, una bambina, una speranza è venuta qui nel pianeta chiamato terra
 								    <br>
-								    Tra le grandi battaglie, ed eventuali tumulti l'umanità ha bisogno di una luce su cui puntare
+								    Tra le grandi battaglie, ed eventuali tumulti l'umanità ha bisogno di una luce su cui puntare.
 								    <br>
 								    <br>
 								    <br>
@@ -98,9 +98,9 @@
 								    Lead Developer: Mattia Nicotra
 								    <br>
 								    <br>
-								    Supporto Morale: Antonia Lo Piparo
+								    Supporto Morale: Antoninaa Lo Piparo
 								    <br>
-								    <br>
+								    <br>	
 							    	
 								   
 							</p>
